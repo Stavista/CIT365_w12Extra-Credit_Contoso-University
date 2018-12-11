@@ -10,8 +10,11 @@
     padding-right: 15px;
 }
 
-/* Carousel */
-.carousel-caption p {
+.navbar-inverse {
+    background-color: #004b97;
+}
+    /* Carousel */
+    .carousel-caption p {
     font-size: 20px;
     line-height: 1.4;
 }
